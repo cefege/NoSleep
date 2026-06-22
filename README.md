@@ -108,7 +108,7 @@ Then remove it from **System Settings → General → Login Items** if you added
 
 ## Author
 
-Built by **Mihai** ([@cefege](https://github.com/cefege)).
+Developed by **Mihai Mateias** ([@cefege](https://github.com/cefege)).
 
 ## Contributing
 
