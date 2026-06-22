@@ -106,6 +106,10 @@ Then remove it from **System Settings → General → Login Items** if you added
 
 **Is it safe?** It's open source — read every line in [`Sources/main.swift`](Sources/main.swift). The optional sudoers rule is scoped to exactly two commands.
 
+## Author
+
+Built by **Mihai** ([@cefege](https://github.com/cefege)).
+
 ## Contributing
 
 Issues and PRs welcome. It's one Swift file; keep it small and boring.
